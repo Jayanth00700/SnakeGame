@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Synth",
+  "description": "A retro-futuristic dark neon snake game with a built-in AI music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
